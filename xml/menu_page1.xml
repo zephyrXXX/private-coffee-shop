@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop>
+    <unit>
+        <name>"../images/39.png"</name>
+        <image>Salted Caramel Cream Cold Brew</image>
+    </unit>
+    <unit>
+        <name>Coffee Shop Reserve® Cold Brew</name>
+        <image>"../images/26.png"</image>
+    </unit>
+    <unit>
+        <name>Coffee Shop® Cold Brew Coffee</name>
+        <image>"../images/40.png"</image>
+    </unit>
+    <unit>
+        <name>Vanilla Sweet Cream Cold Brew</name>
+        <image>"../images/22.png"</image>
+    </unit>
+    <unit>
+        <name>Coffee Shop Reserve® Nitro Cold Brew</name>
+        <image>"../images/31.png"</image>
+    </unit>
+
+    <unit>
+        <name>Iced Caramel Macchiato</name>
+        <image>"../images/23.png"</image>
+    </unit>
+</shop>

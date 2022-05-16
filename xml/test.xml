@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop>
+    <info_unit>
+        <name_cal code="0">
+        <name>Mango Dragonfruit Lemonade Coffee Shop Refreshers® Beverage Refreshers® Beverage</name>
+        <calories>140</calories>
+        </name_cal>
+    </info_unit>
+  <products>
+        <product code="svc-500">
+        <category>drink</category>
+        <fat>5g</fat>
+        <total_fat>0g</total_fat>
+        <saturated_fat>0g</saturated_fat>
+        <trans_fat>0g</trans_fat>
+        <cholesterol>0g</Cholesterol>
+        <sodium>15mg</sodium>
+        <carbohydrates>34g</carbohydrates>
+        <protein>0g</protein>
+        <caffeine>45mg</caffeine>
+    </product>  
+    <info_units>
+        <allergens>
+            <tst>Not available for this item. We cannot guarantee that any unpackaged products served in our stores are allergen-free because we use shared equipment to store, prepare, and serve them. Customers with allergies can find ingredient information for products on the labels of our packaged products or online at Coffeeshop.com/menu.</tst?
+        </allergens>
+    </info_units>
+</shop>
